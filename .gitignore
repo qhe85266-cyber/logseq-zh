@@ -1,0 +1,10 @@
+# 不要把官方安装包和运行时推进仓库
+app/*.AppImage
+app/runtime/
+app/*.log
+app/*.png
+*.AppImage
+node_modules/
+.DS_Store
+graphs/demo/
+graphs/.graph-lifecycle/
