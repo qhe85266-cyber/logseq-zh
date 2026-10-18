@@ -1,4 +1,8 @@
-# logseq-zh · Logseq 本地知识库（简体中文配套）
+# 知澜笔记 · Zhilan Notes
+
+![知澜笔记原创品牌插图](assets/brand-cover.jpg)
+
+把日记、引用和复习接成一条线。面向中文用户的 Logseq 本地知识库入门配套。
 
 ## 本项目主要解决什么问题
 
@@ -56,8 +60,8 @@ macOS / Windows 请下载对应官方安装包，图谱目录仍可指向本仓�
 ## 启动
 
 ```bash
-git clone https://github.com/qhe85266-cyber/logseq-zh.git
-cd logseq-zh
+git clone https://github.com/qhe85266-cyber/zhilan-notes-kit.git
+cd zhilan-notes-kit
 # 先完成上一节「安装 Logseq」
 ./启动.sh
 ```
@@ -95,3 +99,7 @@ Logseq **官方已内置多语言**，本仓库不做应用源码汉化，也不
 
 - 本仓库自有的脚本、说明文档与截图：可按仓库用途自由学习与修改。
 - Logseq 本体及其商标、安装包：版权与许可归 [logseq/logseq](https://github.com/logseq/logseq) 上游，请从其仓库获取并遵守其条款。
+
+## 品牌与截图
+
+「知澜笔记」是本仓库配套材料的名称；Logseq 应用本体、截图中的官方名称和许可继续保留，不冒充自研笔记引擎。封面为原创品牌插图，真实操作截图仍用于说明上游应用。见 [BRANDING.md](BRANDING.md)。
